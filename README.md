@@ -1,4 +1,4 @@
-#Email Alias Remover
+# Email Alias Remover
 
 This is a collection of tools written in various programming languages designed to remove email aliases from email addresses.
 
@@ -15,7 +15,7 @@ C++: See the C++ script.
 Enter an email address: user+alias@example.com
 Cleaned email: user@example.com
 
-#License
+# License
 
 This project is licensed under the MIT License 
 
